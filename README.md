@@ -32,10 +32,12 @@ Hi, I'm **Amit Kumar**, an MCA student at the University of Mumbai. This project
    - Use Visual Studio to build and run the project.  
    - Connect the application to the MySQL database using the configuration file.  
 
-
+---
 
 **Applicability:**
 This project is ideal for schools, colleges, institute, class, and training centers looking for a streamlined solution to manage student data and academic records efficiently.  
+
+---
 
 **Achievements:**  
 - Secure and efficient platform for student management.  
